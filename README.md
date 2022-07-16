@@ -2,38 +2,38 @@
 
 <br><br><br>
 
-## Intel i386
+### Intel i386
 
 [80386 PC Emulator](https://github.com/kxkx5150/CPU-80386-cpp)  
 
 <br>
 
-## Intel 8086 version
+### Intel 8086
 
 [8086 PC Emulator](https://github.com/kxkx5150/CPU-8086-cpp)
 
 <br>
 
-## ARM v7
+### ARM v7
 
 [ARMv7](https://github.com/kxkx5150/CPU-ARMv7-cpp)  
 
 <br>
 
-## Zilog Z80 version
+### Zilog Z80
 
 [MSX1 Emulator](https://github.com/kxkx5150/CPU-Z80-cpp)
 
 <br>
 
-## MOS 6502 version
+### MOS 6502
 
 [Apple II Emulator](https://github.com/kxkx5150/CPU-6502-cpp)  
 [NES (ファミコン) Emulator](https://github.com/kxkx5150/Famicom-cpp)  
 
 <br>
 
-## CHIP-8
+### CHIP-8
 
 [CHIP8 Emulator](https://github.com/kxkx5150/CPU-CHIP8-cpp)  
 
