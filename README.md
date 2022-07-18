@@ -2,6 +2,12 @@
 
 <br><br><br>
 
+### ARM v7
+
+[ARMv7](https://github.com/kxkx5150/CPU-ARMv7-cpp)  
+
+<br>
+
 ### Intel i386
 
 [80386 PC Emulator](https://github.com/kxkx5150/CPU-80386-cpp)  
@@ -14,11 +20,7 @@
 
 <br>
 
-### ARM v7
 
-[ARMv7](https://github.com/kxkx5150/CPU-ARMv7-cpp)  
-
-<br>
 
 ### Zilog Z80
 
@@ -40,6 +42,11 @@
 <br><br><br><br><br>
 
 # Sample
+
+### ARM v7
+
+https://user-images.githubusercontent.com/10168979/179578799-3b7972a9-8585-498b-b325-4ae9e07330d6.mp4
+
 ### 80386  
 
 https://user-images.githubusercontent.com/10168979/177424985-9e91d420-b6b8-4e00-8db4-0dbcb3d3b295.mp4
