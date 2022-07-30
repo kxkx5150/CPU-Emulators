@@ -2,6 +2,12 @@
 
 <br><br><br>
 
+### RISC-V
+
+[CPU-RISC-V](https://github.com/kxkx5150/CPU-RISC-V-cpp)  
+
+<br>
+
 ### ARM v7
 
 [ARMv7](https://github.com/kxkx5150/CPU-ARMv7-cpp)  
@@ -17,12 +23,6 @@
 ### Intel 8086
 
 [8086 PC Emulator](https://github.com/kxkx5150/CPU-8086-cpp)
-
-<br>
-
-### RISC-V
-
-[CPU-RISC-V](https://github.com/kxkx5150/CPU-RISC-V-cpp)  
 
 <br>
 
