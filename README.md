@@ -28,13 +28,17 @@
 
 ### Zilog Z80
 
-[MSX1 Emulator](https://github.com/kxkx5150/CPU-Z80-cpp)
+[MSX1 Emulator](https://github.com/kxkx5150/CPU-Z80-cpp)  
+
+Z80 Custom  
+[Gameboy Emulator](https://github.com/kxkx5150/CPU-GBZ80-cpp)  
 
 <br>
 
 ### MOS 6502
 
 [Apple II Emulator](https://github.com/kxkx5150/CPU-6502-cpp)  
+
 [NES (ファミコン) Emulator](https://github.com/kxkx5150/Famicom-cpp)  
 
 Custom CPU (HuC6280)   
@@ -63,6 +67,8 @@ https://user-images.githubusercontent.com/10168979/177424985-9e91d420-b6b8-4e00-
 https://user-images.githubusercontent.com/10168979/170740958-f11a08ec-5843-4313-bf58-862f9a992454.mp4
 
 ### Z80
+
+https://user-images.githubusercontent.com/10168979/183100975-79c82728-b3e6-4870-8353-94a8cfb4a65a.mp4
 
 https://user-images.githubusercontent.com/10168979/178095609-62c0ea3d-8733-4826-a245-66338cd4f6bb.mp4
 
