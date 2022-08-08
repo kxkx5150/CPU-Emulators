@@ -30,6 +30,8 @@
 
 [MSX1 Emulator](https://github.com/kxkx5150/CPU-Z80-cpp)  
 
+[Sega Master System Emulator](https://github.com/kxkx5150/CPU-Z80A-cpp)  
+
 Z80 Custom  
 [Gameboy Emulator](https://github.com/kxkx5150/CPU-GBZ80-cpp)  
 
