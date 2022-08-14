@@ -28,7 +28,7 @@
 
 ### Motorola MC68000
 
-[Sega Genesis (メガドライブ)](https://github.com/kxkx5150/CPU-8086-cpp)
+[Sega Genesis (メガドライブ)](https://github.com/kxkx5150/CPU-MC68000-cpp)
 
 <br><br>
 
