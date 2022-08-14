@@ -6,25 +6,31 @@
 
 [CPU-RISC-V](https://github.com/kxkx5150/CPU-RISC-V-cpp)  
 
-<br>
+<br><br>
 
 ### ARM v7
 
 [ARMv7](https://github.com/kxkx5150/CPU-ARMv7-cpp)  
 
-<br>
+<br><br>
 
 ### Intel i386
 
 [80386 PC Emulator](https://github.com/kxkx5150/CPU-80386-cpp)  
 
-<br>
+<br><br>
 
 ### Intel 8086
 
 [8086 PC Emulator](https://github.com/kxkx5150/CPU-8086-cpp)
 
-<br>
+<br><br>
+
+### Motorola MC68000
+
+[Sega Genesis (メガドライブ)](https://github.com/kxkx5150/CPU-8086-cpp)
+
+<br><br>
 
 ### Zilog Z80
 
@@ -35,7 +41,7 @@
 Z80 Custom  
 [Gameboy Emulator](https://github.com/kxkx5150/CPU-GBZ80-cpp)  
 
-<br>
+<br><br>
 
 ### MOS 6502
 
@@ -46,7 +52,7 @@ Z80 Custom
 Custom CPU (HuC6280)   
 [PC Engine (PCエンジン)](https://github.com/kxkx5150/CPU-HuC6280-cpp)  
 
-<br>
+<br><br>
 
 ### CHIP-8
 
