@@ -1,5 +1,7 @@
 # CPU-Emulators
 
+## Requires SDL2
+
 <br><br><br>
 
 ### RISC-V
