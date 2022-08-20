@@ -34,6 +34,12 @@
 
 <br><br>
 
+### WDC 65816
+
+[SNES (スーパーファミコン)](https://github.com/kxkx5150/CPU-65816-cpp)  
+
+<br><br>
+
 ### Zilog Z80
 
 [MSX1 Emulator](https://github.com/kxkx5150/CPU-Z80-cpp)  
