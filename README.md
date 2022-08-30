@@ -28,6 +28,12 @@
 
 <br><br>
 
+### R3000
+
+[Playstation 1 Emulator (プレステ1)](https://github.com/kxkx5150/CPU-R3000-cpp)
+
+<br><br>
+
 ### Motorola MC68000
 
 [Sega Genesis (メガドライブ)](https://github.com/kxkx5150/CPU-MC68000-cpp)
