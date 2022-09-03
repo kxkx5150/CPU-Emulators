@@ -16,6 +16,12 @@
 
 <br><br>
 
+### ARM7TDMI (ARMv4T)
+
+[GBA (ゲームボーイアドバンス)](https://github.com/kxkx5150/CPU-ARM7TDMI-cpp)  
+
+<br><br>
+
 ### Intel i386
 
 [80386 PC Emulator](https://github.com/kxkx5150/CPU-80386-cpp)  
