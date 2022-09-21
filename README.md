@@ -33,6 +33,12 @@ sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-net
 
 <br><br><br>
 
+### Intel Pentium 4
+
+[Intel 32bit PC Emulator](https://github.com/kxkx5150/CPU-IA32-cpp)  
+
+<br><br><br>
+
 ### Intel i386
 
 [80386 PC Emulator](https://github.com/kxkx5150/CPU-80386-cpp)  
@@ -98,6 +104,9 @@ Custom CPU (HuC6280)
 <br><br><br><br><br>
 
 # Sample
+### Intel Pentium 4
+
+https://user-images.githubusercontent.com/10168979/191488477-70b0b665-3fab-4235-af39-d49508be88bc.mp4
 
 ### ARM v7
 
