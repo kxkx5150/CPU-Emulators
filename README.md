@@ -51,6 +51,12 @@ sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-net
 
 <br><br><br>
 
+### R5900
+
+[Playstation 2 Emulator](https://github.com/kxkx5150/CPU-Emotion-Engine-cpp)  
+
+<br><br><br>
+
 ### R4300i
 
 [NINTENDO64 Emulator (N64)](https://github.com/kxkx5150/CPU-R4300i-cpp)
