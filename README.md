@@ -10,10 +10,12 @@ install SDL2
 sudo apt-get install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-net-dev libsdl2-ttf-dev
 </pre>
 
-<br><br><br>
+<br><br><br><br><br>
 
+These are examples to give you an idea of how CPUs work in PCs, game consoles.  
+For learning.  
 
-<br><br><br>
+<br><br><br><br><br>
 
 ### RISC-V
 
