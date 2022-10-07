@@ -53,6 +53,12 @@ For learning.
 
 <br><br><br>
 
+### Intel 8080
+
+[Space Invaders emulator](https://github.com/kxkx5150/CPU-8080-cpp)  
+
+<br><br><br>
+
 ### R5900
 
 [Playstation 2 Emulator (プレステ2)](https://github.com/kxkx5150/CPU-Emotion-Engine-cpp)  
