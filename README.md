@@ -83,6 +83,12 @@ For learning.
 
 <br><br><br>
 
+### Motorola MC6809
+
+[Vectrex Emulator](https://github.com/kxkx5150/CPU-MC6809-cpp)  
+
+<br><br><br>
+
 ### WDC 65816
 
 [SNES (スーパーファミコン)](https://github.com/kxkx5150/CPU-65816-cpp)  
