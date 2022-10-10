@@ -123,6 +123,12 @@ Custom CPU (HuC6280)
 
 <br><br><br><br><br>
 
+### E0C6S46 (4bit microcontroller)
+
+[Tamagotchi emulator](https://github.com/kxkx5150/CPU-E0C6S46-cpp)  
+
+<br><br><br><br><br>
+
 # Sample
 ### Intel Pentium 4
 
