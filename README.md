@@ -29,6 +29,12 @@ For learning.
 
 <br><br><br>
 
+### ARM946E-S (ARMv5TE)
+
+[Nintendo DS emulator](https://github.com/kxkx5150/CPU-ARM946E-S-cpp)  
+
+<br><br><br>
+
 ### ARM7TDMI (ARMv4T)
 
 [GBA (ゲームボーイアドバンス)](https://github.com/kxkx5150/CPU-ARM7TDMI-cpp)  
