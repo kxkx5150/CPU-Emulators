@@ -83,6 +83,12 @@ For learning.
 
 <br><br><br>
 
+### SH-2
+
+[Sega Saturn emulator (セガサターン)](https://github.com/kxkx5150/CPU-SH2-S-cpp)  
+
+<br><br><br>
+
 ### Motorola MC68000
 
 [Sega Genesis (メガドライブ)](https://github.com/kxkx5150/CPU-MC68000-cpp)
