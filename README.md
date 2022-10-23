@@ -133,11 +133,21 @@ Custom CPU (HuC6280)
 
 [CHIP8 Emulator](https://github.com/kxkx5150/CPU-CHIP8-cpp)  
 
-<br><br><br><br><br>
+<br><br><br>
 
 ### E0C6S46 (4bit microcontroller)
 
 [Tamagotchi emulator](https://github.com/kxkx5150/CPU-E0C6S46-cpp)  
+
+<br><br><br>
+
+### uPD7801G
+
+[Super Cassette Vision (スーパーカセットビジョン)](https://github.com/kxkx5150/CPU-uPD7801G-cpp)  
+
+<br><br><br>
+
+
 
 <br><br><br><br><br>
 
@@ -169,7 +179,6 @@ https://user-images.githubusercontent.com/10168979/178095609-62c0ea3d-8733-4826-
 https://user-images.githubusercontent.com/10168979/178127943-f5ad0967-ced6-4eb5-9a7b-c885db925f68.mp4
 
 https://user-images.githubusercontent.com/10168979/167252280-cf27defe-456b-4261-877a-c19ef5543edc.mp4
-
 
 ### CHIP-8
 
