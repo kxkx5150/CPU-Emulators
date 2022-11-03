@@ -141,6 +141,12 @@ Custom CPU (HuC6280)
 
 <br><br><br>
 
+### SM5A (Sharp SM5xx family)
+
+[Game & Watch Emulator](https://github.com/kxkx5150/CPU-SM5A-cpp)  
+
+<br><br><br>
+
 ### uPD7801G
 
 [Super Cassette Vision (スーパーカセットビジョン)](https://github.com/kxkx5150/CPU-uPD7801G-cpp)  
