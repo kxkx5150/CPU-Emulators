@@ -77,6 +77,12 @@ For learning.
 
 <br><br><br>
 
+### R4000
+
+[PSP emulator](https://github.com/kxkx5150/CPU-Allegrex-cpp/tree/master)  
+
+<br><br><br>
+
 ### R3000
 
 [Playstation 1 Emulator (プレステ1)](https://github.com/kxkx5150/CPU-R3000-cpp)
