@@ -67,7 +67,10 @@ For learning.
 
 ### R5900
 
+[Playstation 2 Emulator PCSX2 (プレステ2)](https://github.com/kxkx5150/CPU-Emotion-Engine-PCSX2-cpp)  
+
 [Playstation 2 Emulator (プレステ2)](https://github.com/kxkx5150/CPU-Emotion-Engine-cpp)  
+
 
 <br><br><br>
 
