@@ -166,7 +166,6 @@ Custom CPU (HuC6280)
 
 <br><br><br><br><br>
 
-# Sample
 ### Intel Pentium 4
 
 https://user-images.githubusercontent.com/10168979/191488477-70b0b665-3fab-4235-af39-d49508be88bc.mp4
